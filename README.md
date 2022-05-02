@@ -1,8 +1,4 @@
-Hello! I'm Fourth
-
-I'm a junior at Swarthmore College studying Honors major in Economics, Honors minor in Mathematics, and minor in Computer Science
-
-I'm interested in _____
+The collection of my research project with Professor He
 
 
 <!---
